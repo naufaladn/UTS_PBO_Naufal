@@ -1,0 +1,119 @@
+Nama: Alif Naufal Adani
+NIM: 32602300006
+
+Menu:
+1. Tambah Kamar
+2. Tambah Tamu
+3. Buat Reservasi
+4. Batalkan Reservasi
+5. Daftar Kamar Tersedia
+6. Tampilkan Info Tamu
+7. Keluar
+Pilih opsi: 1
+Nomor kamar: 102
+Tipe kamar (Single/Double/Suite): double
+Harga per malam: 1000000
+Kamar berhasil ditambahkan.
+
+Nama: Alif Naufal Adani
+NIM: 32602300006
+
+Menu:
+1. Tambah Kamar
+2. Tambah Tamu
+3. Buat Reservasi
+4. Batalkan Reservasi
+5. Daftar Kamar Tersedia
+6. Tampilkan Info Tamu
+7. Keluar
+Pilih opsi: 2
+Nama tamu: ardana
+Nomor identitas: 12131415
+Kontak: 086172836281
+Tamu berhasil didaftarkan.
+
+Nama: Alif Naufal Adani
+NIM: 32602300006
+
+Menu:
+1. Tambah Kamar
+2. Tambah Tamu
+3. Buat Reservasi
+4. Batalkan Reservasi
+5. Daftar Kamar Tersedia
+6. Tampilkan Info Tamu
+7. Keluar
+Pilih opsi: 3
+Nama tamu: ardana
+Nomor kamar: 102
+Tanggal Check-in (YYYY-MM-DD): 2024-01-31
+Tanggal Check-out (YYYY-MM-DD): 2024-02-03
+Reservasi berhasil dibuat.
+
+Nama: Alif Naufal Adani
+NIM: 32602300006
+
+Menu:
+1. Tambah Kamar
+2. Tambah Tamu
+3. Buat Reservasi
+4. Batalkan Reservasi
+5. Daftar Kamar Tersedia
+6. Tampilkan Info Tamu
+7. Keluar
+Pilih opsi: 5
+Daftar Kamar Tersedia:
+
+Nama: Alif Naufal Adani
+NIM: 32602300006
+
+Menu:
+1. Tambah Kamar
+2. Tambah Tamu
+3. Buat Reservasi
+4. Batalkan Reservasi
+5. Daftar Kamar Tersedia
+6. Tampilkan Info Tamu
+7. Keluar
+Pilih opsi: 6
+Nama tamu: ardana
+Nama: ardana
+Nomor Identitas: 12131415
+Kontak: 086172836281
+Daftar Reservasi Aktif:
+Tamu: ardana
+Kamar: 102
+Check-in: 2024-01-31 00:00:00
+Check-out: 2024-02-03 00:00:00
+Durasi Menginap: 3 malam
+Status: aktif
+
+Nama: Alif Naufal Adani
+NIM: 32602300006
+
+Menu:
+1. Tambah Kamar
+2. Tambah Tamu
+3. Buat Reservasi
+4. Batalkan Reservasi
+5. Daftar Kamar Tersedia
+6. Tampilkan Info Tamu
+7. Keluar
+Pilih opsi: 4
+Nama tamu: ardana
+Nomor kamar: 102
+Reservasi berhasil dibatalkan.
+
+Nama: Alif Naufal Adani
+NIM: 32602300006
+
+Menu:
+1. Tambah Kamar
+2. Tambah Tamu
+3. Buat Reservasi
+4. Batalkan Reservasi
+5. Daftar Kamar Tersedia
+6. Tampilkan Info Tamu
+7. Keluar
+Pilih opsi: 7
+Terima kasih telah menggunakan aplikasi!
